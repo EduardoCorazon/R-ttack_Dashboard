@@ -34,8 +34,7 @@ export const JammingAttackCard = () => {
                     fileName: metadata?.name,
                 });
 
-                // Add logic to start the attack, for example:
-                await axios.post(`${systemIPConfig.ipAddress}/menu`, {choice: 'ReplayAttack'});
+                await axios.post(`${systemIPConfig.ipAddress}/menu`, {choice: 'JammingAttack'});
             }
             setIsAttackingJamming(!isAttackingJamming); // Toggle isAttacking state
             localStorage.setItem("isAttacking", !isAttackingJamming ? "true" : "false");
