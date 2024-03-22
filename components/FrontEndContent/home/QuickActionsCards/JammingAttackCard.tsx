@@ -1,5 +1,5 @@
 // @ts-nocheck
-import SystemIPConfig from "@/SystemIPConfig";
+import systemIPConfig from "@/SystemIPConfig";
 import {Card, CardBody} from "@nextui-org/react";
 import React, {useState} from "react";
 import {Community} from "../../icons/community";
