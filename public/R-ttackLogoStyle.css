@@ -1,0 +1,23 @@
+.logo-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Adjust the height as needed */
+}
+
+.centered {
+    text-align: center;
+}
+
+.white-text {
+    color: white;
+}
+
+.red-text {
+    color: red;
+}
+
+.subtext {
+    margin-top: 10px; /* Adjust the margin as needed */
+}
