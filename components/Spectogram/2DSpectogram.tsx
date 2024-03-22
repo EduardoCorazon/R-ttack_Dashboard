@@ -1,6 +1,6 @@
+"use client";
 // @ts-nocheck
 import systemIPConfig from "@/SystemIPConfig";
-"use client";
 import React, {useEffect, useRef} from "react";
 import {
     AxisScrollStrategies,
