@@ -1,5 +1,5 @@
 # R-ttack: the Web Based RF pentesting tool
-
+![alt text](https://github.com/EduardoCorazon/R-ttack_Dashboard/blob/main/GithubReadMeContent/DashboardImage.png?raw=true)
 
 
 Please note that to use R-ttack you need to install the backend component here: https://github.com/EduardoCorazon/R-ttack
@@ -31,6 +31,7 @@ Oh yeah I almost forgot, this project and all of R-ttack is entirely **opensourc
 
 # How to use
 Video Guide:
+[![Watch the video](https://github.com/EduardoCorazon/R-ttack_Dashboard/blob/main/GithubReadMeContent/LoginScreenImage.png)](https://github.com/EduardoCorazon/R-ttack_Dashboard/blob/main/GithubReadMeContent/ReplayAttackExampleVideo.mp4)
 
 
 A proper documentation guide will be posted soon!
@@ -42,3 +43,5 @@ You can record one type and then add on the other attack or analyze feature by u
 
 You can select your captures dynamically to use in both analysis and engagements.
 I apologize for the rushed readme file lol.
+
+![alt text](https://github.com/EduardoCorazon/R-ttack_Dashboard/blob/main/GithubReadMeContent/DashbaordBottomImage.png?raw=true)
