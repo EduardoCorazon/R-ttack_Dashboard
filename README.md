@@ -25,13 +25,20 @@ Oh yeah I almost forgot, this project and all of R-ttack is entirely **opensourc
    - npm install
    - sudo node r-ttack-server.js
 6) Go to your respective **http://localhost:3200** and login
-   username: admin
-   password: password
+   ![alt text](https://github.com/EduardoCorazon/R-ttack_Dashboard/blob/main/GithubReadMeContent/LoginScreenImage.png?raw=true)
+   username: **admin**<br>
+   password: **password**<br>
    (very secure I know)
 
 # How to use
 Video Guide:
-[![Watch the video](https://github.com/EduardoCorazon/R-ttack_Dashboard/blob/main/GithubReadMeContent/LoginScreenImage.png)](https://github.com/EduardoCorazon/R-ttack_Dashboard/blob/main/GithubReadMeContent/ReplayAttackExampleVideo.mp4)
+
+
+https://github.com/EduardoCorazon/R-ttack_Dashboard/assets/79670342/edda4941-0913-4dff-ac85-4cdea785b4e2
+
+
+
+
 
 
 A proper documentation guide will be posted soon!
